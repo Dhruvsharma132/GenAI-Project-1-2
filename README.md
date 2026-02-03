@@ -1,6 +1,8 @@
-# GenAI-Project-1-2
-# Soulpage-genai-assignment-Dhruv-Sharma
-This repository contains solutions for the Soulpage GenAI Assignment, demonstrating the design and implementation of agentic AI systems using LangGraph and LangChain-style architectures.
+# GenAI Project 1–2 — Agentic AI & Conversational Systems
+
+> Solutions for Soulpage’s Generative AI assignments demonstrating multi-agent orchestration and conversational AI with memory & tools.
+
+This repository presents two hands-on implementations highlighting advanced Generative AI system design using **LangGraph-style agent workflows** and **context-aware conversational agents**.
 
 # 🧠 Soulpage GenAI Assignment — Dhruv Sharma
 
@@ -171,6 +173,50 @@ Bot: He studied at Stanford University but dropped out.
 
 ---
 
+## 🚀 Why This Matters
+
+This project showcases skills that are directly applicable to **real-world AI and ML engineering roles**, including:
+
+✔ Designing agentic AI systems with clear modular structure  
+✔ Building memory-augmented conversational applications  
+✔ Deploying context-aware components for human-AI interaction  
+✔ Reproducible, evaluator-friendly notebook implementations
+
+Whether for internal tooling, digital assistants, or next-generation AI workflows, these patterns reflect **industry-relevant generative and agentic designs**.
+
+---
+
+## ▶️ How to Run
+
+1. Open the repository in Jupyter Notebook
+2. Run **Task1_Multi_Agent_LangGraph_Submission.ipynb**
+3. Run **Task2_Conversational_Knowledge_Bot_Submission.ipynb**
+
+---
+
+## 📌 Skills & Technologies
+**Key Skills Demonstrated**
+- Agent-oriented AI design
+- Generative AI workflows
+- Context maintenance and conversational memory
+- System architecture thinking for LLM-style agents
+
+**Tools / Libraries (conceptual)**
+- LangGraph-style orchestration
+- Notebook-based deliverables
+
+---
+
+## 📈 Future Enhancements
+
+You could expand this project to:
+- Integrate real LLM APIs (OpenAI, LLaMA, Claude)
+- Add external knowledge sources (wiki APIs, vector search)
+- Containerized deployment (Docker, FastAPI)
+- UI interface for conversational bot
+
+---
+
 ## 🏁 Final Notes
 
 - Both tasks strictly follow the assignment requirements.
@@ -180,7 +226,8 @@ Bot: He studied at Stanford University but dropped out.
 
 ---
 
-## 👤 Author
+## 📌 Author
 
-**Dhruv Sharma**  
-MSc Data Science | GenAI & Agentic Systems
+**Dhruv Sharma** — MSc in Data Science | Applied AI & ML  
+*Portfolio:* https://github.com/Dhruvsharma132  
+*LinkedIn:* https://www.linkedin.com/in/dhruv-sharma-4791b723a/
